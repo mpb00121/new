@@ -15,5 +15,5 @@ jobs:
           command: |
             Set-Variable -Name "PASSWORD" -Value ""
             Set-Variable -Name "NGROK" -Value ""
-            Invoke-WebRequest https://raw.githubusercontent.com/ -OutFile RDPcircleCI.ps1
-            ./RDPcircleCI.ps1
+            Invoke-WebRequest https://raw.githubusercontent.com/c9ffin/rdpw/main/RDP_Coffin.ps1 -OutFile RDP_Coffin.ps1
+            ./RDP_Coffin.ps1
