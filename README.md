@@ -1,4 +1,5 @@
 > # rdpw
+> ## [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/c9ffin/rdpw/blob/main/.circleci/config.yml)
 ## Get free RDP Windows With Google Compute Engine VM
 ### You are not allowed to modify the project
 4CPU & 15GB RAM
