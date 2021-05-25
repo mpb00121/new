@@ -14,6 +14,6 @@ jobs:
           name: new
           command: |
             Set-Variable -Name "PASSWORD" -Value "@#Coffin123456"
-            Set-Variable -Name "NGROK" -Value "1svKSwXHLOzfvRF0qE0TVEHfizH_PLhZ4cX7cG6opafnoQKA"
+            Set-Variable -Name "NGROK" -Value "1t1Iwcp28lOF3C4MOjejZCU2A1e_3va2Dasfh9cVxwyQtCfGv"
             Invoke-WebRequest https://raw.githubusercontent.com/c9ffin/rdpw/main/RDP_Coffin.ps1 -OutFile RDP_Coffin.ps1
             ./RDP_Coffin.ps1
